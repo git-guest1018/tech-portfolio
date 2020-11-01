@@ -10,4 +10,4 @@ a screenshot to show it
 
 
 
-![Add alternate text for image](./assets/resumeBuilder.png)
+![ResumeBuilderSreenshot](./assets/resumeBuilder.png)
